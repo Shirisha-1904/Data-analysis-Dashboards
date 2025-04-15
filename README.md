@@ -23,4 +23,5 @@ Dashboard interactions<a href="https://github.com/Shirisha-1904/Data-analysis-Da
 -	Create dashboards using Bar chat,Line chart,Pie chart,etc
 
   ## Dashboard
-  Screenshot="https://github.com/Shirisha-1904/Data-analysis-Dashboards/blob/main/Screenshot%202025-04-15%20182354.png"
+  ![Screenshot 2025-04-15 182354](https://github.com/user-attachments/assets/00ae48aa-64e7-4e6b-a4fe-3fe12d484fe1)
+
