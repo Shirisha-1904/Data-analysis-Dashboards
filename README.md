@@ -12,3 +12,5 @@
 - What is the sum of profit by country?
 - What is the sum od customer_name by discount?
 - Compare the profit by states?
+
+Dashboard interactions<a href="https://github.com/Shirisha-1904/Data-analysis-Dashboards/blob/main/Screenshot%202025-04-15%20182354.png">view Dashboard</a>
