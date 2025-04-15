@@ -1,2 +1,4 @@
-# SuperStore_orders-Dashboard
-I developed a comprehensive project in Excel .Creating multiple dashboards and tables to analyze the data . This process involved several stages , including data preprocessing , data cleaning , and data visualization
+# SuperStore_orders Data Analysis(Interactive Dashboards creation using MS Excel)
+## Project objective
+"The objective of this project is to analyze SuperStore’s order data to identify sales patterns, customer preferences, and profitability trends across different regions, product categories, and customer segments by creating dashboards”.
+
