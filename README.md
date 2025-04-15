@@ -14,3 +14,10 @@
 - Compare the profit by states?
 
 Dashboard interactions<a href="https://github.com/Shirisha-1904/Data-analysis-Dashboards/blob/main/Screenshot%202025-04-15%20182354.png">view Dashboard</a>
+
+##process
+-	Exoplore the data Columns:OrderID,Category,Sub-category,Sales,Profit,Region,etc.
+-	Spot any Missing or weird data
+-	Clean duplicates or wrong entries
+-	Build Pivot tables for given Questions
+-	Create dashboards using Bar chat,Line chart,Pie chart,etc
