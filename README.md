@@ -25,3 +25,13 @@ Dashboard interactions<a href="https://github.com/Shirisha-1904/Data-analysis-Da
   ## Dashboard
   ![Screenshot 2025-04-15 182354](https://github.com/user-attachments/assets/00ae48aa-64e7-4e6b-a4fe-3fe12d484fe1)
 
+## Project insights
+-	Profitability by Category and Sub-Category
+-	Regional Sales Performance
+-	Shipping Mode
+-	Seasonal Trends
+-	Discount Impact
+-	Customer Segments
+
+## Conculsion
+The analysis of the Superstore dataset revealed valuable insights into sales performance, profitability, and customer behavior. While the business performs well in certain areas like Technology sales and the Western region, there are key areas that need improvement.
