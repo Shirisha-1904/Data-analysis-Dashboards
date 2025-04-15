@@ -5,3 +5,10 @@
 ## Dataset used
 <a href="https://github.com/Shirisha-1904/Data-analysis-Dashboards/blob/main/SuperStore_Orders.csv">SuperStore_orders</a>
 
+## Questions
+- Compare the count of customer_name and product name using column chart
+- What is the profit by product_name and discount?
+- Compare the count of product_name by year?
+- What is the sum of profit by country?
+- What is the sum od customer_name by discount?
+- Compare the profit by states?
